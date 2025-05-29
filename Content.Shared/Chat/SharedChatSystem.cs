@@ -27,7 +27,7 @@ public abstract class SharedChatSystem : EntitySystem
     [ValidatePrototypeId<RadioChannelPrototype>]
     public const string CommonChannel = "Common";
 
-    public static string DefaultChannelPrefix = $"{RadioChannelPrefix}{DefaultChannelKey}";bbbbbbbbb      
+    public static string DefaultChannelPrefix = $"{RadioChannelPrefix}{DefaultChannelKey}";
 
     [ValidatePrototypeId<SpeechVerbPrototype>]
     public const string DefaultSpeechVerb = "Default";
