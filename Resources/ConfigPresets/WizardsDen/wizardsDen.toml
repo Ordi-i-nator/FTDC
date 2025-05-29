@@ -32,9 +32,12 @@ appeal     = "https://appeal.ss14.io"
 [server]
 rules_file = "StandardRuleset"
 
+<<<<<<< HEAD
 [movement]
 mob_pushing = false
 
+=======
+>>>>>>> parent of 593804b517 (Mob collisions (#34580))
 [net]
 max_connections = 1024
 
